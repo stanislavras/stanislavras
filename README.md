@@ -11,8 +11,8 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow
 
 ## My Repositories
 
-| :---------------------- |
-| test |
+| :---------------------- | :---------------------- |
+| test | test |
 
 <!--
 **stanislavras/stanislavras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
