@@ -10,7 +10,7 @@ PostgreSQL
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow
 
 ## My Repositories
-
+| № | Статус проекта |
 | :---------------------- | :---------------------- |
 | test | test |
 
