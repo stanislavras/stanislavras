@@ -1,14 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 I am Stanislav Raspechenko
+
 After more than ten years as a technical specialist in engineering, I decided to retrain and completed a Data Scientist course. This is a very perspective field with a great opportunity to become a professional and to build a career. I am looking forward to apply my newly acquired knowledge, as well as strong analytical skills and technical thinking that I have developed during my previous work, to practical problems.
 
-## Databases:
+### Databases:
 PostgreSQL
 
-## Data Science:
+### Data Science:
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow
 
-### My Repositories
+## My Repositories
+
 | :---------------------- |
 | test |
 
