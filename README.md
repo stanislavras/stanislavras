@@ -10,15 +10,7 @@ PostgreSQL
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow
 
 ## My Repositories
-| <!-- --> | <!-- --> |
-|:---------------------- | :---------------------- |
-| test | test |
-
-| <!-- -->      | <!-- -->        | <!-- -->      |
-|:-------------:|:---------------:|:-------------:|
-| Row 1         | **Bold**        | Cell 3        |
-| Row 2         | *Italic*        | Cell 6        |
-| Row 3         | ~~Strike~~      | Cell 9        |
+[yandex_practicum_DS_projects](https://github.com/stanislavras/yandex_practicum_DS_projects/tree/main)
 
 <!--
 **stanislavras/stanislavras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
