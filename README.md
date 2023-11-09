@@ -7,7 +7,7 @@ After more than ten years as a technical specialist in engineering, I decided to
 PostgreSQL
 
 ### Data Science:
-Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow
+Python, Pandas, NumPy, Matplotlib, SciPy, Scikit-learn, TensorFlow
 
 ## My Repositories
 [yandex_practicum_DS_projects](https://github.com/stanislavras/yandex_practicum_DS_projects/tree/main)
